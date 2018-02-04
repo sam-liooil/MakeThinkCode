@@ -1,9 +1,9 @@
 # Make+Think+Code WebVR
 
 ## Week 1:
-A-Frame - [A-Frame](https://aframe.io/)
-Docs - [Docs](https://aframe.io/docs/0.7.0/introduction/)
-Blog - [A Week of A-Frame](https://aframe.io/blog/)
+- A-Frame - [A-Frame](https://aframe.io/)
+- Docs - [Docs](https://aframe.io/docs/0.7.0/introduction/)
+- Blog - [A Week of A-Frame](https://aframe.io/blog/)
 
 ## Week 2:
 - AR.js - [AR.js](https://aframe.io/blog/arjs/)
