@@ -2,7 +2,7 @@
 
 ## Necessary Software
 - [Atom.io](https://atom.io) - Atom is a Free Open Source, customizable text editor.
-- [Blender](https://blender.com)Blender is a Free Open Source 3d tool for modeling, animating and rendering
+- [Blender](https://blender.com) - Blender is a Free Open Source 3d tool for modeling, animating and rendering
 
 ## Week 1:
 - A-Frame - [A-Frame](https://aframe.io/)
