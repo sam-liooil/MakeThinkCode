@@ -1,26 +1,27 @@
 # Make+Think+Code WebVR
 
 ## Week 1:
-A-Frame - [Link](https://aframe.io/)
-Docs - [Link](https://aframe.io/docs/0.7.0/introduction/)
-Blog - [Link](https://aframe.io/blog/)
+A-Frame - [A-Frame](https://aframe.io/)
+Docs - [Docs](https://aframe.io/docs/0.7.0/introduction/)
+Blog - [A Week of A-Frame](https://aframe.io/blog/)
 
 ## Week 2:
-AR.js - [Link](https://aframe.io/blog/arjs/ - https://medium.com/arjs/augmented-reality-in-10-lines-of-html-4e193ea9fdbf)
-WeAR Core - [Link](https://developers.google.com/ar/develop/web/getting-started)
-WebAR Kit - [Link](https://github.com/google-ar/WebARonARKit)
+AR.js - [AR.js](https://aframe.io/blog/arjs/)
+[AR in 10 Lines of Code](https://medium.com/arjs/augmented-reality-in-10-lines-of-html-4e193ea9fdbf)
+WebAR Core - [WebARCore](https://developers.google.com/ar/develop/web/getting-started)
+WebAR Kit - [WebARKit](https://github.com/google-ar/WebARonARKit)
 
 ## Week 3:
-Networked Scene - [Link](https://github.com/haydenjameslee/networked-aframe - https://haydenlee.io/networked-aframe/)
-Uploading to IPFS - [Link](https://medium.com/@kfarr/publishing-an-a-frame-scene-on-ipfs-18a50853c5a6)
+Networked Scene - [Networked A-frame](https://github.com/haydenjameslee/networked-aframe)
+Uploading to IPFS - [IPFS](https://medium.com/@kfarr/publishing-an-a-frame-scene-on-ipfs-18a50853c5a6)
 
 
 ## Extras:
-Three.js - [Link](https://threejs.org/)
-IPFS - [Link](https://ipfs.io/)
-Neocities - [Link](http://neocities.org/)
-Glitch - [Link](https://glitch.com)
-W3Schools - [Link](http://w3schools.com/)
+Three.js - [Three.js](https://threejs.org/)
+IPFS - [IPFS](https://ipfs.io/)
+Neocities - [Neocities](http://neocities.org/)
+Glitch - [Glitch](https://glitch.com)
+W3Schools - [w3Schools](http://w3schools.com/)
 
 ## Examples:
 Free Store - [Link](https://a-freestore.neocities.org/)
