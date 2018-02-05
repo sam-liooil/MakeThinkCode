@@ -5,11 +5,17 @@
 - [Blender](https://blender.com) - Blender is a Free Open Source 3d tool for modeling, animating and rendering
 
 ## Week 1:
+
+![WebVR Galleries](/src/webVR-gallery.gif)
+
 - A-Frame - [A-Frame](https://aframe.io/)
 - Docs - [Docs](https://aframe.io/docs/0.7.0/introduction/)
 - Blog - [A Week of A-Frame](https://aframe.io/blog/)
 
 ## Week 2:
+
+![WebAR Avatars](/src/avatAR.gif)
+
 - AR.js - [AR.js](https://aframe.io/blog/arjs/)
 - [AR in 10 Lines of Code](https://medium.com/arjs/augmented-reality-in-10-lines-of-html-4e193ea9fdbf)
 - WebAR Core - [WebARCore](https://developers.google.com/ar/develop/web/getting-started)
