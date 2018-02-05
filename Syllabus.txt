@@ -1,0 +1,43 @@
+WebVR Galleries
+PNCA
+Instructor: Stephanie Mendoza
+liooil.space
+
+
+Syllabus
+
+i. What Is WebVR?
+
+WebVR enables Virtual Reality in the browser, for which there are a variety of methods of achieving. WebVR has been around since Tony Parisi's project VRML in the mid 90's.
+
+
+I. Hello World: A-Frame
+
+A-Frame is currently the most intuitive webVR development library so naturally I encourage becoming familiar with it first before moving on to more flexible builds like Three.js
+
+To add A-Frame to your project, simply navigate to the introduction page on A-Frame's Docs, there you will be provided with a script link to the latest version. Copy and paste this into the head of your HTML file. Afterwards, to use A-Frame simply open up an <a-scene> tag in the body and write your VR code.
+
+
+II.  HTML
+
+The foundation of A-Frame is in making VR which could be created using markdown, much like the 2D web. Therefore it is important that we grasp the most basic concepts of HTML before moving forward.
+
+
+III. Navigating 3D Space - Blender
+
+Blender is a very useful tool for creating, editing, and converting 3D files for use in VR. The basic interface and navigation of all 3D tools generally tend to act in a similar fashion, which comes in handy when switching between Blender and A-frame's 3D Editor.
+
+
+IV. Custom 3D
+
+In order to save time on modeling we will be creating scenes using primarily found objects, which can be gathered on any number of sites. My preference for this is often sketchfab or thingiverse. We will be importing GLTF filetypes which can be converted in Blender using https://github.com/Kupoman/blendergltf
+
+
+V. Adding Media
+
+Media can be added simply by placing the source file in the <a-asset-item> tag. A-frame can use almost any filetype that a normal web browser can: images, video, and audio.
+
+
+VI. Components
+
+A-Frame's power comes from its entity-component system, components enable a variety of behaviors in WebVR by simply plugging them in to the <a-entity>. Components are written in Javascript (usually using THREE.js) and registered using A-Frame's component registry.

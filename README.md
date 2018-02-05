@@ -2,7 +2,8 @@
 
 ## Necessary Software
 - [Atom.io](https://atom.io) - Atom is a Free Open Source, customizable text editor.
-- [Blender](https://blender.com) - Blender is a Free Open Source 3D tool for modeling, animating and rendering.
+- [Blender](https://blender.com) - Blender is a Free Open Source 3D tool for modeling, animating and rendering.  
+
 
 ## Week 1:
 
@@ -11,6 +12,8 @@
 - [A-Frame](https://aframe.io/) - A-Frame is an Open Source WebVR framework which allows us to run Virtual Reality Experiments in a Browser (currently Firefox/Chrome only).
 - [Docs](https://aframe.io/docs/0.7.0/introduction/) - A-Frame's documentation page, click here to get started.
 - [A Week of A-Frame](https://aframe.io/blog/) - A Week of A-Frame is A-Frame's blog, documenting content created with A-Frame.
+- [K-Frame](https://github.com/ngokevin/kframe) - An excellent collection of components by one of A-Frame's developers.
+
 
 ## Week 2:
 
@@ -21,7 +24,9 @@
 - [WebARCore](https://developers.google.com/ar/develop/web/getting-started) - WebAR Core guidelines on developing AR for Google's AR Core.
 - [WebARKit](https://github.com/google-ar/WebARonARKit) - WebAR Kit guidelines on developing AR for Apple's AR Kit.
 
+
 ## Week 3:
+
 - [Networked A-frame](https://github.com/haydenjameslee/networked-aframe) - The Networked A-Frame component allows multiple users to connect to each other via webRTC, enabling social VR on the web.
 - [IPFS](https://medium.com/@kfarr/publishing-an-a-frame-scene-on-ipfs-18a50853c5a6) - How to upload your WebVR scene to IPFS
 
@@ -32,6 +37,7 @@
 - [Neocities](http://neocities.org/) - Free Hosting provider for creative static websites, soul successor of Geocities.
 - [Glitch](https://glitch.com) - Glitch is a creative coding, rapid prototyping web playground
 - [w3Schools](http://w3schools.com/) - W3Schools is a helpful resource for all of the basics of web development
+
 
 ## Examples:
 - Free Store - [Link](https://a-freestore.neocities.org/)
