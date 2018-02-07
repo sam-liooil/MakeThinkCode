@@ -43,7 +43,7 @@ Coming soon!
 
 ## Week 3:
 
-[Networked WebVR](/src/networked.gif)
+![Networked WebVR](/src/networked.gif)
 
 ### Slides
 
