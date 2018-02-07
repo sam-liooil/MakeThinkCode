@@ -43,6 +43,8 @@ Coming soon!
 
 ## Week 3:
 
+[Networked WebVR](/src/networked.gif)
+
 ### Slides
 
 - [Shapeshifter Culture](https://www.slideshare.net/StephanieMendoza6/shapeshifter-culture?qid=67a7f806-4dd1-4df9-aa89-66035b246dac&v=&b=&from_search=1)
