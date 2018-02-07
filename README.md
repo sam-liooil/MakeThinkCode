@@ -11,7 +11,7 @@
 
 ### Slides
 
--[WebVR 1.0](https://www.slideshare.net/StephanieMendoza6/webvr-10)
+- [WebVR 1.0](https://www.slideshare.net/StephanieMendoza6/webvr-10)
 
 ### Links
 
