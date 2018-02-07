@@ -9,6 +9,12 @@
 
 [![WebVR Galleries](/src/webVR-gallery.gif)](https://liooil.space/Contact/newContact.html)
 
+### Slides
+
+-[WebVR 1.0](https://www.slideshare.net/StephanieMendoza6/webvr-10)
+
+### Links
+
 - [A-Frame](https://aframe.io/) - A-Frame is an Open Source WebVR framework which allows us to run Virtual Reality Experiments in a Browser (currently Firefox/Chrome only).
 - [Docs](https://aframe.io/docs/0.7.0/introduction/) - A-Frame's documentation page, click here to get started.
 - [A Week of A-Frame](https://aframe.io/blog/) - A Week of A-Frame is A-Frame's blog, documenting content created with A-Frame.
@@ -19,14 +25,29 @@
 
 ![WebAR Avatars](/src/avatAR.gif)
 
+### Slides
+
+Coming soon!
+
+## Links
+
 - [AR.js](https://aframe.io/blog/arjs/) - The AR.js toolkit repository, used to enable web based Augmented Reality.
 - [AR in 10 Lines of Code](https://medium.com/arjs/augmented-reality-in-10-lines-of-html-4e193ea9fdbf) - Excellent tutorial on WebAR.
 - [WebARCore](https://developers.google.com/ar/develop/web/getting-started) - WebAR Core guidelines on developing AR for Google's AR Core.
 - [WebARKit](https://github.com/google-ar/WebARonARKit) - WebAR Kit guidelines on developing AR for Apple's AR Kit.
 
+### Video
+
+- [Bruce Sterling: At the Dawn of the Augmented Reality Industry](https://vimeo.com/6189763) - Bruce Sterling (one of the 'fathers' of cyberpunk) provides you with context on the setting in which AR (and to a large extent VR) will develop in the future. The video is almost a decade old, but discusses a future still a decade off with incredible foresight.
+
 
 ## Week 3:
 
+### Slides
+
+- [Shapeshifter Culture](https://www.slideshare.net/StephanieMendoza6/shapeshifter-culture?qid=67a7f806-4dd1-4df9-aa89-66035b246dac&v=&b=&from_search=1)
+
+### Links
 - [Networked A-frame](https://github.com/haydenjameslee/networked-aframe) - The Networked A-Frame component allows multiple users to connect to each other via webRTC, enabling social VR on the web.
 - [IPFS](https://medium.com/@kfarr/publishing-an-a-frame-scene-on-ipfs-18a50853c5a6) - How to upload your WebVR scene to IPFS
 
