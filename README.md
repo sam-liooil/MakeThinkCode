@@ -38,7 +38,7 @@ Coming soon!
 
 ### Video
 
-- [Bruce Sterling: At the Dawn of the Augmented Reality Industry](https://vimeo.com/6189763) - Bruce Sterling (one of the 'fathers' of cyberpunk) provides you with context on the setting in which AR (and to a large extent VR) will develop in the future. The video is almost a decade old, but discusses a future still a decade off with incredible foresight.
+- [Bruce Sterling: At the Dawn of the Augmented Reality Industry](https://vimeo.com/6189763) - Bruce Sterling (one of the creators of cyberpunk) provides you with context on the setting in which AR (and to a large extent VR) will develop in the future. The video is almost a decade old, but discusses a future still a decade off with incredible foresight.
 
 
 ## Week 3:
