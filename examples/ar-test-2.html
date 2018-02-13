@@ -1,0 +1,35 @@
+<!doctype HTML>
+<html>
+<script src="https://aframe.io/releases/0.7.0/aframe.min.js"></script>
+<script src="https://cdn.rawgit.com/jeromeetienne/AR.js/1.5.0/aframe/build/aframe-ar.js"> </script>
+  <body style='margin : 0px; overflow: hidden;'>
+    <a-scene embedded arjs>
+      <a-assets>
+        <a-asset-item id="maschera-mask" src="assets/masks/maschera_mask/scene.gltf"></a-asset-item>
+        <a-asset-item id="african-mask" src="assets/masks/african_mask/scene.gltf"></a-asset-item>
+        <a-asset-item id="tigre-mask" src="assets/masks/el_tigre_mask/scene.gltf"></a-asset-item>
+        <a-asset-item id="bellacoola-mask" src="assets/masks/bella_coola_wooden_mask/scene.gltf"></a-asset-item>
+        <a-asset-item id="majoras-mask" src="assets/masks/majoras_mask/scene.gltf"></a-asset-item>
+        <a-asset-item id="face-mask" src="assets/masks/old_face_mask/scene.gltf"></a-asset-item>
+      </a-assets>
+
+      <a-marker preset="hiro">
+              <a-box position='0 0.5 0' material='color: black;'></a-box>
+      </a-marker>
+
+    	<a-marker preset="kanji">
+              <a-box position='0 0.5 0' material='color: red;'></a-box>
+    	</a-marker>
+
+      <!-- <a-marker type="pattern" patternUrl="https://raw.githubusercontent.com/jeromeetienne/AR.js/master/data/multimarkers/multi-abcdef/patt.a" size="1">
+              <a-box position='0 0.5 0' material='color: blue;'></a-box>
+      </a-marker> -->
+
+      <a-marker type="pattern" patternUrl="assets/patterns/entity-marker.patt">
+              <a-box position='0 0.5 0' material='color: black;'></a-box>
+      </a-marker>
+
+    	<a-entity camera></a-entity>
+    </a-scene>
+  </body>
+</html>

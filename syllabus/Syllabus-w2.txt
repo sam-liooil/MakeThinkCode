@@ -1,0 +1,42 @@
+AvatARs
+PNCA
+Instructor: Stephanie Mendoza
+liooil.space
+
+
+Syllabus
+
+i. What Is WebAR?
+
+WebAR enables Augmented Reality in the browser, for our purposes we will be using the AR.js library (based on ARtoolkit) in addition to A-Frame.
+
+
+I. A-Frame
+
+A-Frame is currently the most intuitive webVR/AR development library so naturally I encourage becoming familiar with it first before moving on to more flexible builds like Three.js
+
+To add A-Frame to your project, simply navigate to the introduction page on A-Frame's Docs, there you will be provided with a script link to the latest version. Copy and paste this into the head of your HTML file. Afterwards, to use A-Frame simply open up an <a-scene artoolkit=”sourceType: webcam;”> tag in the body and write your AR code.
+
+
+II.  HTML
+
+A-Frame abstracts THREE.js javascript, therefore allowing us to create complex 3D webapps with simple markdown, much like the 2D web. Therefore it is important that we grasp the most basic concepts of HTML before moving forward.
+
+
+III. Navigating 3D Space - Blender
+
+Blender is a very useful tool for creating, editing, and converting 3D files for use in VR. The basic interface and navigation of all 3D tools generally tend to act in a similar fashion, which comes in handy when switching between Blender and A-frame's 3D Editor.
+
+
+IV. Hello AR
+
+We will be writing our first AR script using the Hiro and Kanji Fiduciary markers. Code can be found on the class github page.
+
+
+V. Using markers as masks
+
+After developing our first AR scene, we will add custom 3D models and learn how to animate them in the real world.
+
+
+Resources:
+https://github.com/sam-liooil/MakeThinkCode-WebVR

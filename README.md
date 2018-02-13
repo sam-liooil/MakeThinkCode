@@ -3,7 +3,7 @@
 ## Necessary Software
 - [Atom.io](https://atom.io) - Atom is a Free Open Source, customizable text editor.
 - [Blender](https://blender.com) - Blender is a Free Open Source 3D tool for modeling, animating and rendering.  
-
+- [Node.js](https://nodejs.org/en/) - Node allows us to create simple web servers with javascript.
 
 ## Week 1:
 
@@ -32,6 +32,7 @@ Coming soon!
 ## Links
 
 - [AR.js](https://aframe.io/blog/arjs/) - The AR.js toolkit repository, used to enable web based Augmented Reality.
+- [AR.js github repo](https://github.com/jeromeetienne/ar.js) - github repository for AR.js
 - [AR in 10 Lines of Code](https://medium.com/arjs/augmented-reality-in-10-lines-of-html-4e193ea9fdbf) - Excellent tutorial on WebAR.
 - [WebARCore](https://developers.google.com/ar/develop/web/getting-started) - WebAR Core guidelines on developing AR for Google's AR Core.
 - [WebARKit](https://github.com/google-ar/WebARonARKit) - WebAR Kit guidelines on developing AR for Apple's AR Kit.
