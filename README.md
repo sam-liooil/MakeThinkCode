@@ -27,7 +27,7 @@
 
 ### Slides
 
-Coming soon!
+- [WebAR](https://www.slideshare.net/StephanieMendoza6/web-ar-87896598)
 
 ## Links
 
