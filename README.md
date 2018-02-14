@@ -4,6 +4,7 @@
 - [Atom.io](https://atom.io) - Atom is a Free Open Source, customizable text editor.
 - [Blender](https://blender.com) - Blender is a Free Open Source 3D tool for modeling, animating and rendering.  
 - [Node.js](https://nodejs.org/en/) - Node allows us to create simple web servers with javascript.
+- [Homebrew](https://brew.sh/) - package manager for Mac OS; necessary for Node.js
 
 ## Week 1:
 
