@@ -6,6 +6,10 @@
 - [Node.js](https://nodejs.org/en/) - Node allows us to create simple web servers with javascript.
 - [Homebrew](https://brew.sh/) - package manager for Mac OS; necessary for Node.js
 
+## Easy Web Hosting
+- [Glitch](Glitch.com) - Web Playground for easily hosting creative web development such as webVR
+- [GLTF Converter for Glitch.com](https://sbtron.github.io/makeglb/) - Nessisary to use .gltf file formats without seperate hosting on Glitch.com
+
 ## Week 1:
 
 [![WebVR Galleries](/src/webVR-gallery.gif)](https://liooil.space/Contact/newContact.html)

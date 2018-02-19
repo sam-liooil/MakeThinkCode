@@ -1,0 +1,62 @@
+Networked WebVR
+PNCA
+Instructor: Stephanie Mendoza
+liooil.space
+
+
+Syllabus
+
+i. What Is Social VR?
+
+Virtual Reality is a modern, immersive form of communication that will allow us to interact with each other in methods that include cooperative, real time representation in simulated spaces. These interactions constitute social VR, it generally includes and Avatar inhabited by a user, and a World inhabited by the avatar.
+
+
+
+I. WebVR and A-Frame
+
+A-Frame is currently the most intuitive webVR development library so naturally I encourage becoming familiar with it first before moving on to more flexible builds like Three.js
+
+To add A-Frame to your project, simply navigate to the introduction page on A-Frame's Docs, there you will be provided with a script link to the latest version. Copy and paste this into the head of your HTML file. Afterwards, to use A-Frame simply open up an <a-scene> tag in the body and write your VR code.
+
+
+
+II.  Hello World: Networked A-Frame
+
+Networked A-Frame is an A-Frame component that uses EasyRTC to visualize users in real time as avatars on a web scene. To enable Networked A-Frame, follow the link provided on the NAF website to the glitch.com demo. 
+
+
+
+III. Essential Tools for building Social VR
+
+Blender is a very useful tool for creating, editing, and converting 3D files for use in VR. The basic interface and navigation of all 3D tools generally tend to act in a similar fashion, which comes in handy when switching between Blender and A-frame's 3D Editor.
+
+Atom is an Open source, configurable text Editor
+
+Glitch.com is a simple way to host social webVR projects
+
+gltf converter is necessary to convert gltf files into a format that can be displayed by glitch.com
+
+
+
+IV. Building a World
+
+We will cover how to import assets for world creation, and briefly cover using the 3D editor to manage assets.
+
+
+
+V. Creating an Avatar
+
+Avatars, unlike in many standalone VR experiences- are critically important in social VR. Not only do they locate you in a room but also allow you to express your presence in a form often configurable by the user. In order to add an avatar to your social VR scene you will need to provide a 'head' and 'hands', what aesthetically constitutes a head and hands is up to you.
+
+
+VI. Cross Platform Social VR
+
+After adding the world and avatar body we can now use all three major device types as portals for entry into Virtual Reality. We will test our scenes on your desktop, the HTC Vive, and your mobile phone.
+
+
+
+Extra:
+
+V. IPFS, Decentraland and the Distributed Web
+
+The distributed Web....
