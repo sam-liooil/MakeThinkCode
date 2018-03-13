@@ -54,7 +54,7 @@
 ### Slides
 
 - [Shapeshifter Culture](https://www.slideshare.net/StephanieMendoza6/shapeshifter-culture?qid=67a7f806-4dd1-4df9-aa89-66035b246dac&v=&b=&from_search=1)
-
+- [Making Shapeshifter Culture](https://docs.google.com/presentation/d/1KJ0RC67rzlH4uahE63jD_JFCR5Q41-LolKllqvoo_d8/edit#slide=id.g3525f9f553_0_22)
 ### Links
 - [Networked A-frame](https://github.com/haydenjameslee/networked-aframe) - The Networked A-Frame component allows multiple users to connect to each other via webRTC, enabling social VR on the web.
 - [IPFS](https://medium.com/@kfarr/publishing-an-a-frame-scene-on-ipfs-18a50853c5a6) - How to upload your WebVR scene to IPFS
