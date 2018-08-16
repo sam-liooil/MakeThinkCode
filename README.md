@@ -47,7 +47,7 @@
 - [Bruce Sterling: At the Dawn of the Augmented Reality Industry](https://vimeo.com/6189763) - Bruce Sterling (one of the creators of cyberpunk) provides you with context on the setting in which AR (and to a large extent VR) will develop in the future. The video is almost a decade old, but discusses a future still a decade off with incredible foresight.
 
 
-## Week 3:
+<!-- ## Week 3:
 
 ![Networked WebVR](/src/networked.gif)
 
@@ -72,4 +72,4 @@
 - Free Store - [Link](https://a-freestore.neocities.org/)
 - r o o m - [Link](https://liooil.space/VR_webStuff/vaporWave.html)
 - Google Music Visualizer - [Link](https://experiments.withgoogle.com/webvr/inside-music/view/)
-- WeAR Portal -[Link]( https://twitter.com/jerome_etienne/status/893217730517749760)
+- WeAR Portal -[Link]( https://twitter.com/jerome_etienne/status/893217730517749760) -->
