@@ -1,4 +1,4 @@
-# Make+Think+Code: Open Source
+# Make+Think+Code + Open Source
 
 ## Linux
 
@@ -8,6 +8,7 @@
 
 ### Learning the Command Line
 [![Learning the Command Line](/src/sl.gif)](https://github.com/mtoyoda/sl)
+
 ### Slides
 - coming soon!
 
@@ -16,6 +17,7 @@
 
 
 ## Open Source Art
+![Learning the Command Line](/src/classes-vr/Git.png)
 
 ### Necessary Software
 
@@ -27,9 +29,9 @@
 - coming soon!
 
 ### Links
-- coming soon!
+- [Markdown Guide](https://www.markdownguide.org/) - a guide for markdown syntax to make a good README
 
-# Make+Think+Code WebXR
+# Make+Think+Code + WebXR
 
 ## Necessary Software
 - [Atom.io](https://atom.io) - Atom is a Free Open Source, customizable text editor.
@@ -65,7 +67,7 @@
 
 - [WebAR](https://www.slideshare.net/StephanieMendoza6/web-ar-87896598)
 
-## Links
+### Links
 
 - [AR.js](https://aframe.io/blog/arjs/) - The AR.js toolkit repository, used to enable web based Augmented Reality.
 - [AR.js github repo](https://github.com/jeromeetienne/ar.js) - github repository for AR.js
@@ -76,6 +78,10 @@
 ### Video
 
 - [Bruce Sterling: At the Dawn of the Augmented Reality Industry](https://vimeo.com/6189763) - Bruce Sterling (one of the creators of cyberpunk) provides you with context on the setting in which AR (and to a large extent VR) will develop in the future. The video is almost a decade old, but discusses a future still a decade off with incredible foresight.
+
+
+# Make+Think+Code + ShapeshifterCulture
+
 
 
 <!-- ## Week 3:
