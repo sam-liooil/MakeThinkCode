@@ -1,6 +1,6 @@
 # Make+Think+Code: Open Source
 
-# Linux
+# #Linux
 
 ## Necessary Software
 - [iTerm](https://www.iterm2.com/) - iTerm is a terminal emulator that runs on MacOSX
@@ -15,7 +15,7 @@
 - [Learning the Command Line](#) - Guide to mastering the Linux command line!
 
 
-# Open Source Art
+# #Open Source Art
 
 ## Necessary Software
 
