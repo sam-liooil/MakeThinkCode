@@ -1,4 +1,6 @@
-# Make+Think+Code Linux
+# Make+Think+Code: Open Source
+
+# Linux
 
 ## Necessary Software
 - [iTerm](https://www.iterm2.com/) - iTerm is a terminal emulator that runs on MacOSX
@@ -6,7 +8,10 @@
 
 ## Learning the Command Line
 [![Learning the Command Line](/src/sl.gif)](https://github.com/mtoyoda/sl)
-//- [Learning the Command Line] () -
+### Slides
+- coming soon!
+### Links
+- [Learning the Command Line] () -
 
 
 # Make+Think+Code WebXR
