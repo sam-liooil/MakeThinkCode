@@ -10,9 +10,24 @@
 [![Learning the Command Line](/src/sl.gif)](https://github.com/mtoyoda/sl)
 ### Slides
 - coming soon!
-### Links
-- [Learning the Command Line] () -
 
+### Links
+- [Learning the Command Line](#) - Guide to mastering the Linux command line!
+
+
+# Open Source Art
+
+## Necessary Software
+
+- [Git](https://git-scm.com/downloads)
+- [iTerm](https://www.iterm2.com/) - iTerm is a terminal emulator that runs on MacOSX
+- [PuTTY](https://www.putty.org/) - PuTTY is a free and open-source terminal emulator, serial console and network file transfer application
+
+## Slides
+- coming soon!
+
+## Links
+- coming soon!
 
 # Make+Think+Code WebXR
 
