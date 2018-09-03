@@ -1,12 +1,12 @@
 # Make+Think+Code: Open Source
 
-# #Linux
+## Linux
 
-## Necessary Software
+### Necessary Software
 - [iTerm](https://www.iterm2.com/) - iTerm is a terminal emulator that runs on MacOSX
 - [PuTTY](https://www.putty.org/) - PuTTY is a free and open-source terminal emulator, serial console and network file transfer application
 
-## Learning the Command Line
+### Learning the Command Line
 [![Learning the Command Line](/src/sl.gif)](https://github.com/mtoyoda/sl)
 ### Slides
 - coming soon!
@@ -15,18 +15,18 @@
 - [Learning the Command Line](#) - Guide to mastering the Linux command line!
 
 
-# #Open Source Art
+##Open Source Art
 
-## Necessary Software
+### Necessary Software
 
 - [Git](https://git-scm.com/downloads)
 - [iTerm](https://www.iterm2.com/) - iTerm is a terminal emulator that runs on MacOSX
 - [PuTTY](https://www.putty.org/) - PuTTY is a free and open-source terminal emulator, serial console and network file transfer application
 
-## Slides
+### Slides
 - coming soon!
 
-## Links
+### Links
 - coming soon!
 
 # Make+Think+Code WebXR
