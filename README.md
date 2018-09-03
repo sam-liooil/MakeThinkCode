@@ -15,7 +15,7 @@
 - [Learning the Command Line](#) - Guide to mastering the Linux command line!
 
 
-##Open Source Art
+## Open Source Art
 
 ### Necessary Software
 
