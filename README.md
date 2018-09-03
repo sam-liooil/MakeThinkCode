@@ -1,4 +1,15 @@
-# Make+Think+Code WebVR
+# Make+Think+Code Linux
+
+## Necessary Software
+- [iTerm](https://www.iterm2.com/) - iTerm is a terminal emulator that runs on MacOSX
+- [PuTTY](https://www.putty.org/) - PuTTY is a free and open-source terminal emulator, serial console and network file transfer application
+
+## Learning the Command Line
+[![Learning the Command Line](/src/sl.gif)](https://github.com/mtoyoda/sl)
+//- [Learning the Command Line] () -
+
+
+# Make+Think+Code WebXR
 
 ## Necessary Software
 - [Atom.io](https://atom.io) - Atom is a Free Open Source, customizable text editor.
