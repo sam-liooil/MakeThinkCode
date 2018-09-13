@@ -1,16 +1,20 @@
 # Make+Think+Code + Open Source
 
-## Linux
 
 ### Necessary Software
 - [iTerm](https://www.iterm2.com/) - iTerm is a terminal emulator that runs on MacOSX
 - [PuTTY](https://www.putty.org/) - PuTTY is a free and open-source terminal emulator, serial console and network file transfer application
+- [Git](https://git-scm.com/downloads)
 
-### Learning the Command Line
+## Learning the Command Line
 [![Learning the Command Line](/src/sl.gif)](https://github.com/mtoyoda/sl)
 
+### Syllabus
+
+- Coming Soon!
+
 ### Slides
-- coming soon!
+- Coming Soon!
 
 ### Links
 - [Learning the Command Line](#) - Guide to mastering the Linux command line!
@@ -18,12 +22,6 @@
 
 ## Open Source Art
 ![Learning the Command Line](/src/classes-vr/Git.png)
-
-### Necessary Software
-
-- [Git](https://git-scm.com/downloads)
-- [iTerm](https://www.iterm2.com/) - iTerm is a terminal emulator that runs on MacOSX
-- [PuTTY](https://www.putty.org/) - PuTTY is a free and open-source terminal emulator, serial console and network file transfer application
 
 ### Slides
 - coming soon!
@@ -43,7 +41,7 @@
 - [Glitch](Glitch.com) - Web Playground for easily hosting creative web development such as webVR
 - [GLTF Converter for Glitch.com](https://sbtron.github.io/makeglb/) - Nessisary to use .gltf file formats without seperate hosting on Glitch.com
 
-## Week 1:
+## WebVR
 
 [![WebVR Galleries](/src/webVR-gallery.gif)](https://liooil.space/Contact/newContact.html)
 
@@ -82,6 +80,7 @@
 
 # Make+Think+Code + ShapeshifterCulture
 
+### Coming Soon!
 
 
 <!-- ## Week 3:
