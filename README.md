@@ -11,7 +11,7 @@
 
 ### Syllabus
 
-- Coming Soon!
+- [Command Lines and the Art of Deep Cleaning](https://github.com/sam-liooil/MakeThinkCode/blob/master/syllabus/syllabus%20-%20LINUX.pdf)
 
 ### Slides
 - Coming Soon!
